@@ -14,8 +14,7 @@ weight = 5
     "R Languague",
     "Statistics",
     "   q   "
-    
-  ]
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
