@@ -13,7 +13,6 @@ weight = 5
     "Urban Intelligent Transportation",
     "R Languague",
     "Statistics",
-    "   q   "
     ]
 
 # List your qualifications (such as academic degrees).
