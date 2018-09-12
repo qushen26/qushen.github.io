@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Urban Intelligent Transportation",
     "R Languague",
-    "Statistics",
+    "Statistics"
     ]
 
 # List your qualifications (such as academic degrees).
